@@ -1,0 +1,231 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "player_name": "Virat Kohli",
+      "skill": "Batsman",
+      "image_url": "/static-assets/images/team/virat_kohli.jpg",
+      "team_name": "India",
+      "upcoming_matches": [
+        {
+          "match_name": "India vs Australia",
+          "match_date": "2020-01-14T09:00:00Z"
+        },
+        {
+          "match_name": "India vs New Zealand",
+          "match_date": "2020-01-24T09:00:00Z"
+        },
+        {
+          "match_name": "India vs England",
+          "match_date": "2020-02-14T09:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "player_name": "Rohit Sharma",
+      "skill": "Batsman",
+      "image_url": "/static-assets/images/team/rohit_sharma.jpg",
+      "team_name": "India",
+      "upcoming_matches": [
+        {
+          "match_name": "India vs Australia",
+          "match_date": "2020-01-14T09:00:00Z"
+        },
+        {
+          "match_name": "India vs New Zealand",
+          "match_date": "2020-01-24T09:00:00Z"
+        },
+        {
+          "match_name": "India vs England",
+          "match_date": "2020-02-14T09:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "player_name": "Jasprit Bumrah",
+      "skill": "Bowler",
+      "image_url": "/static-assets/images/team/jasprit_bumrah.jpg",
+      "team_name": "India",
+      "upcoming_matches": [
+        {
+          "match_name": "India vs Australia",
+          "match_date": "2020-01-14T09:00:00Z"
+        },
+        {
+          "match_name": "India vs New Zealand",
+          "match_date": "2020-01-24T09:00:00Z"
+        },
+        {
+          "match_name": "India vs England",
+          "match_date": "2020-02-14T09:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "player_name": "Hardik Pandya",
+      "skill": "All Rounder",
+      "image_url": "/static-assets/images/team/hardik_pandya.jpg",
+      "team_name": "India",
+      "upcoming_matches": [
+        {
+          "match_name": "India vs Australia",
+          "match_date": "2020-01-14T09:00:00Z"
+        },
+        {
+          "match_name": "India vs New Zealand",
+          "match_date": "2020-01-24T09:00:00Z"
+        },
+        {
+          "match_name": "India vs England",
+          "match_date": "2020-02-14T09:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "player_name": "MS Dhoni",
+      "skill": "Wicket Keeper",
+      "image_url": "/static-assets/images/team/ms_dhoni.jpg",
+      "team_name": "India",
+      "upcoming_matches": [
+        {
+          "match_name": "India vs Australia",
+          "match_date": "2020-01-14T09:00:00Z"
+        },
+        {
+          "match_name": "India vs New Zealand",
+          "match_date": "2020-01-24T09:00:00Z"
+        },
+        {
+          "match_name": "India vs England",
+          "match_date": "2020-02-14T09:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "player_name": "Ravindra Jadeja",
+      "skill": "All Rounder",
+      "image_url": "/static-assets/images/team/ravindra_jadeja.jpg",
+      "team_name": "India",
+      "upcoming_matches": [
+        {
+          "match_name": "India vs Australia",
+          "match_date": "2020-01-14T09:00:00Z"
+        },
+        {
+          "match_name": "India vs New Zealand",
+          "match_date": "2020-01-24T09:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "player_name": "Kane Williamson",
+      "skill": "Batsman",
+      "image_url": "/static-assets/images/team/kane_williamson.jpg",
+      "team_name": "New Zealand",
+      "upcoming_matches": [
+        {
+          "match_name": "New Zealand vs Australia",
+          "match_date": "2020-01-14T09:00:00Z"
+        },
+        {
+          "match_name": "New Zealand vs India",
+          "match_date": "2020-01-24T09:00:00Z"
+        },
+        {
+          "match_name": "New Zealand vs England",
+          "match_date": "2020-02-14T09:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "player_name": "Ross Taylor",
+      "skill": "Batsman",
+      "image_url": "/static-assets/images/team/ross_taylor.jpg",
+      "team_name": "New Zealand",
+      "upcoming_matches": [
+        {
+          "match_name": "New Zealand vs Australia",
+          "match_date": "2020-01-14T09:00:00Z"
+        },
+        {
+          "match_name": "New Zealand vs India",
+          "match_date": "2020-01-24T09:00:00Z"
+        },
+        {
+          "match_name": "New Zealand vs England",
+          "match_date": "2020-02-14T09:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "player_name": "Trent Boult",
+      "skill": "Bowler",
+      "image_url": "/static-assets/images/team/trent_boult.jpg",
+      "team_name": "New Zealand",
+      "upcoming_matches": [
+        {
+          "match_name": "New Zealand vs Australia",
+          "match_date": "2020-01-14T09:00:00Z"
+        },
+        {
+          "match_name": "New Zealand vs India",
+          "match_date": "2020-01-24T09:00:00Z"
+        },
+        {
+          "match_name": "New Zealand vs England",
+          "match_date": "2020-02-14T09:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "player_name": "Colin de Grandhomme",
+      "skill": "All Rounder",
+      "image_url": "/static-assets/images/team/colin_de_grandhomme.jpg",
+      "team_name": "New Zealand",
+      "upcoming_matches": [
+        {
+          "match_name": "New Zealand vs Australia",
+          "match_date": "2020-01-14T09:00:00Z"
+        },
+        {
+          "match_name": "New Zealand vs India",
+          "match_date": "2020-01-24T09:00:00Z"
+        },
+        {
+          "match_name": "New Zealand vs England",
+          "match_date": "2020-02-14T09:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "player_name": "Tom Latham",
+      "skill": "Wicket Keeper",
+      "image_url": "/static-assets/images/team/tom_latham.jpg",
+      "team_name": "New Zealand",
+      "upcoming_matches": [
+        {
+          "match_name": "New Zealand vs Australia",
+          "match_date": "2020-01-14T09:00:00Z"
+        },
+        {
+          "match_name": "New Zealand vs India",
+          "match_date": "2020-01-24T09:00:00Z"
+        },
+        {
+          "match_name": "New Zealand vs England",
+          "match_date": "2020-02-14T09:00:00Z"
+        }
+      ]
+    }
+  ]
+}

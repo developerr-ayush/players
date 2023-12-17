@@ -4,7 +4,7 @@
       "id": 1,
       "player_name": "Virat Kohli",
       "skill": "Batsman",
-      "image_url": "/static-assets/images/team/virat_kohli.jpg",
+      "image_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZrrC_Ch5Uwoi2RTMXwGNv07j-iRsjGm8uuMAYHrpEM4ELypC8Qaf0_23DPIvh",
       "team_name": "India",
       "upcoming_matches": [
         {
@@ -25,7 +25,7 @@
       "id": 2,
       "player_name": "Rohit Sharma",
       "skill": "Batsman",
-      "image_url": "/static-assets/images/team/rohit_sharma.jpg",
+      "image_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZ5My8Tx5MJUc9nwrgCbyav7ZFBDVZe6y8Dlhu7McAwVwAUDuxM95EFrVUQzCN",
       "team_name": "India",
       "upcoming_matches": [
         {
@@ -46,7 +46,7 @@
       "id": 3,
       "player_name": "Jasprit Bumrah",
       "skill": "Bowler",
-      "image_url": "/static-assets/images/team/jasprit_bumrah.jpg",
+      "image_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ7_uL3lhDYZFc4QzuAS6c8pluG9VUmsplLkrcQ7404lLR_ZgvolaqrGCT3EYA0",
       "team_name": "India",
       "upcoming_matches": [
         {
@@ -67,7 +67,7 @@
       "id": 4,
       "player_name": "Hardik Pandya",
       "skill": "All Rounder",
-      "image_url": "/static-assets/images/team/hardik_pandya.jpg",
+      "image_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYqb9MW-8NIM0EpBscPx3329y7uxc3ECz8qro0Mge9ifBC6WUTXMCeQZHmQzH4",
       "team_name": "India",
       "upcoming_matches": [
         {
@@ -88,7 +88,7 @@
       "id": 5,
       "player_name": "MS Dhoni",
       "skill": "Wicket Keeper",
-      "image_url": "/static-assets/images/team/ms_dhoni.jpg",
+      "image_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTm-MdzOjEH64MnQ8W_peifwYAqI5EsDQ_W7ZgWkcackUGfrRsUFwNmrmLG2mp-",
       "team_name": "India",
       "upcoming_matches": [
         {
@@ -109,7 +109,7 @@
       "id": 6,
       "player_name": "Ravindra Jadeja",
       "skill": "All Rounder",
-      "image_url": "/static-assets/images/team/ravindra_jadeja.jpg",
+      "image_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUBls8pmDMDgGO2X60ftqdoKEeAd_d8PTs5d7hGD9_BC9CcHZ8g1erMGOLL4IZ",
       "team_name": "India",
       "upcoming_matches": [
         {
@@ -126,7 +126,7 @@
       "id": 7,
       "player_name": "Kane Williamson",
       "skill": "Batsman",
-      "image_url": "/static-assets/images/team/kane_williamson.jpg",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEh06kDTVUCoQNK7xWLDRhNkpn_V7urq0JQ1Wzggk0KWimV7bTS8tMxmF8GYkE",
       "team_name": "New Zealand",
       "upcoming_matches": [
         {
@@ -147,7 +147,7 @@
       "id": 8,
       "player_name": "Ross Taylor",
       "skill": "Batsman",
-      "image_url": "/static-assets/images/team/ross_taylor.jpg",
+      "image_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmxWKFfXJiov3mrGcIN8OWvhSQ92HtwSz-HQogCml-MrM_juBwd9ZfabBcc9nU",
       "team_name": "New Zealand",
       "upcoming_matches": [
         {
@@ -168,7 +168,7 @@
       "id": 9,
       "player_name": "Trent Boult",
       "skill": "Bowler",
-      "image_url": "/static-assets/images/team/trent_boult.jpg",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-mdWGIEmdjq3w9lwjVfmd13QtSY5RZwL3fgDSxn6JBlOuYu_c9u88i_dRcPwf",
       "team_name": "New Zealand",
       "upcoming_matches": [
         {
@@ -189,7 +189,7 @@
       "id": 10,
       "player_name": "Colin de Grandhomme",
       "skill": "All Rounder",
-      "image_url": "/static-assets/images/team/colin_de_grandhomme.jpg",
+      "image_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrJCSoih9gC8ecd4KJLoKPkdRJq76sQttFiyaZPifOOz89_4tTmJYZLGKsap-b",
       "team_name": "New Zealand",
       "upcoming_matches": [
         {
@@ -210,7 +210,7 @@
       "id": 11,
       "player_name": "Tom Latham",
       "skill": "Wicket Keeper",
-      "image_url": "/static-assets/images/team/tom_latham.jpg",
+      "image_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ15RmWa-0t2Mvd_eDcw6gmeOE6DKyEstP1XX7MH5KC43e9nDbjx0zu9E1beoMh",
       "team_name": "New Zealand",
       "upcoming_matches": [
         {

@@ -1,5 +1,6 @@
 <template>
   <div class="col-lg-4 col-md-6 col-12">
+    
     <div class="card">
       <img :src="player.image_url" class="card-img-top" :alt="player.player_name + ` image`" />
       <div class="card-body">

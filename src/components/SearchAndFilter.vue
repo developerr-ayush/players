@@ -29,7 +29,6 @@ export default {
       this.$emit('changeOption', id)
     },
     changeSearch(val) {
-      console.log(val)
       this.$emit('changeSearch', val)
     }
   },

@@ -58,7 +58,6 @@ export default {
       this.selected = id
     },
     changeSearch(val) {
-      console.log(val)
       this.search = val
     }
   },

@@ -36,6 +36,7 @@ export default {
       }
       if (search) {
         const searchLower = search.toLowerCase()
+        console.log(searchLower)
         players = players.filter((player) => player.player_name.toLowerCase().includes(searchLower))
       }
       return players
@@ -54,8 +55,8 @@ export default {
     }
   },
   methods: {
-    changeOption(id) {
-      this.selected = id
+    changeOption(option) {
+      this.selected = option
     },
     changeSearch(val) {
       this.search = val
